@@ -69,8 +69,8 @@ Bu proje, Görsel Programlama dersi kapsamında geliştirilmiş modern bir müş
 
 ### Adım 1: Projeyi İndirin
 ```bash
-git clone https://github.com/_____/musteri-yonetim-sistemi.git
-cd musteri-yonetim-sistemi
+git clone https://github.com/mert50/MusteriYonetim.git
+cd MusteriYonetim
 ```
 
 ### Adım 2: XAMPP Kurulumu
